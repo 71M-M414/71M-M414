@@ -30,6 +30,8 @@
 
 <br>
 
+**💻GITHUB STATS**
+<br>
   <div>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=71M-M414&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=71M-M414&layout=compact&langs_count=16&theme=gotham&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br" align="right"/>
