@@ -4,7 +4,7 @@
 
  - Meu nome é Guilherme  
  - tenho 23 anos 
- - estudante de Sistemas para Internet na Fatec São roque  atualmente no 4º semestre 
+ - estudante de Sistemas para Internet na Fatec São roque  atualmente no 6º semestre 
  - 🚀Focado no momento em front-end mas a meta é fullstack
 
 
