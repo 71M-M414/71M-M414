@@ -8,7 +8,7 @@
  - 🚀Focado no momento em front-end mas a meta é fullstack
 
 
-- 🌱 **Atualmente estou aprendendo node.js**
+- 🌱 **Atualmente estou aprendendo React.js**
  ## 🚀 Tecnologias 
     
 <div>
